@@ -1,0 +1,24 @@
+<resources>
+<string name="app_name">Slider_3</string>
+<string name="title">CHAISE</string>
+<string name="slider_show">Skip</string>
+    <!--home icon on nav bar-->
+    <string name="home_icon">الرئيسيه</string>
+    <!--buying icon on nav bar-->
+    <string name="by_icon">طلباتي</string>
+<!--search key -->
+    <!--offers icon on nav bar-->
+    <string name="offers_icon">عروض</string>
+    <!--offers icon in nav bar-->
+    <string name="more_icon">المزيد </string>
+    <!--main textView-->
+    <string name="main_texta">أشهر المنتجات</string>
+    <string name="currency">ر.ع</string>
+    <!--search key -->
+    <string name="search_key">إبحث بالمنتجات </string>
+    <string name="main_textb">إختر حسب القسم </string>
+    <string name="main_textb2">تصفح الأفضل تقييماً </string>
+    <string name="main_textb3">تصفح حسب الفئة </string>
+    <string name="offers">أفضل العروض</string>
+
+</resources>
